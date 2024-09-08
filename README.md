@@ -1,7 +1,7 @@
 ## Привет, я Benihime (Олег)! 👋
 
 <p align="center" style="max-width: 100%; height: 180em;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGphbTVscXZrNnNjZGprYWRobjRzYjYwdXY5dmIzeXYzYjV5YWVtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jh7F7XwHTywg85ekdl/giphy.webp"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXplOThjc2pwNTd5a2tueXppNjBtN2p2enEyZDNiYThyb2JzeHY3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7m9QYSiUeURbKqOfS9/giphy.webp"/>
 </p>
 
 
