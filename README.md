@@ -14,13 +14,13 @@
 
 ### 🔥 Моя активность на GitHub:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<ТВОЙ_НИК>&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<ТВОЙ_НИК>&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beniihime&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beniihime&layout=compact&theme=radical" />
 </p>
 
 ### 📫 Контакты:
-- LinkedIn: [Твоя ссылка](https://www.linkedin.com/in/твоя-ссылка)
-- Email: [твоя@почта.com](mailto:твоя@почта.com)
+- Telegram: [@kam3do](https://t.me/kam3do)
+- Email: [твоя@почта.com](mailto:o.shafranov@icloud.com)
 
 ---
 
