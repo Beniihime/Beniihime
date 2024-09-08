@@ -73,29 +73,29 @@
 ### 🔥 Моя активность на GitHub:
 <div align="center">
   <a href="https://github.com/Beniihime/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Beniihime&theme=outrun&border_color=674ea7" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Beniihime&theme=tokyonight&border_color=674ea7" />
   </a>
   <a href="https://github.com/Beniihime/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Beniihime&layout=compact&langs_count=8&card_width=320&theme=outrun&border_color=674ea7" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Beniihime&layout=compact&langs_count=8&card_width=320&theme=tokyonight&border_color=674ea7" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Beniihime/LCS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beniihime&repo=LCS&theme=outrun&border_color=674ea7" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beniihime&repo=LCS&theme=tokyonight&border_color=674ea7" />
   </a>
   <a href="https://github.com/Beniihime/Accelerator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beniihime&repo=Accelerator&theme=outrun&border_color=674ea7" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beniihime&repo=Accelerator&theme=tokyonight&border_color=674ea7" />
   </a>
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Benihime&theme=outrun&border_color=674ea7"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Benihime&theme=tokyonight&border_color=674ea7"/>
 </div>
 
 
 
 ### 🏆 Трофеи профиля:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Beniihime&theme=radical" alt="Трофеи GitHub">
+  <img src="https://github-profile-trophy.vercel.app/?username=Beniihime&theme=tokyonight&border_color=674ea7" alt="Трофеи GitHub">
 </p>
 
 ### 📫 Контакты:
