@@ -20,7 +20,7 @@
 
 ### 📫 Контакты:
 - Telegram: [@kam3do](https://t.me/kam3do)
-- Email: [твоя@почта.com](mailto:o.shafranov@icloud.com)
+- Email: [IcloudMail](mailto:o.shafranov@icloud.com)
 
 ---
 
