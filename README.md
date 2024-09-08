@@ -71,12 +71,25 @@
 
 
 ### 🔥 Моя активность на GitHub:
-<p align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Beniihime&theme=2077" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Beniihime&theme=2077" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Beniihime&theme=2077&utcOffset=8" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Beniihime&theme=2077" />
-</p>
+    <p align="center">
+      <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Beniihime&theme=2077" />
+      <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Beniihime&theme=2077" />
+      <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Beniihime&theme=2077&utcOffset=8" />
+      <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Beniihime&theme=2077" />
+    </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Beniihime&theme=outrun" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Beniihime&layout=compact&langs_count=8&card_width=320&theme=outrun" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beniihime&repo=LCS&theme=outrun" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beniihime&repo=Accelerator&theme=outrun" />
+</a>
 
 ### 🏆 Трофеи профиля:
 <p align="center">
@@ -90,3 +103,4 @@
 ---
 
 ⭐️ Отметь звездой мои репозитории, если они тебе понравились! 😄
+[![wakatime](https://wakatime.com/badge/user/eb5f085b-3382-4558-bf3f-a384052bb836.svg)](https://wakatime.com/@eb5f085b-3382-4558-bf3f-a384052bb836)
