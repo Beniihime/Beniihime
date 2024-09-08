@@ -18,6 +18,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beniihime&layout=compact&theme=radical" />
 </p>
 
+### 🏆 Трофеи профиля:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=<ТВОЙ_НИК>&theme=radical" alt="Трофеи GitHub">
+</p>
+
 ### 📫 Контакты:
 - Telegram: [@kam3do](https://t.me/kam3do)
 - Email: [IcloudMail](mailto:o.shafranov@icloud.com)
