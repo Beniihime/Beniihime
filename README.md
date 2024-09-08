@@ -25,6 +25,7 @@
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Beniihime&theme=2077" />
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Beniihime&theme=2077" />
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Beniihime&theme=2077&utcOffset=8" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Beniihime&theme=2077" />
 </p>
 
 ### 🏆 Трофеи профиля:
