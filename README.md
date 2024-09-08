@@ -14,7 +14,6 @@
 
 ### 🛠️ Навыки и технологии:
 <p align="center">
-  
   Frontend:
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
@@ -40,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
     
- UX/UI:
+  UX/UI:
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" title="Illustrator" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Photoshop" width="40" height="40"/>&nbsp;
