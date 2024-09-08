@@ -1,6 +1,6 @@
 ## Привет, я Benihime (Олег)! 👋
 
-![Приветствие](https://giphy.com/gifs/KonnichiwaFestival-jh7F7XwHTywg85ekdl)
+![Приветствие](<iframe src="https://giphy.com/embed/jh7F7XwHTywg85ekdl" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KonnichiwaFestival-jh7F7XwHTywg85ekdl">via GIPHY</a></p>)
 
 ### 🔧 О себе:
 - 💻 Студент Computer Science and Engineering
