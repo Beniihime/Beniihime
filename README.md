@@ -20,7 +20,7 @@
 
 ### 🏆 Трофеи профиля:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=<ТВОЙ_НИК>&theme=radical" alt="Трофеи GitHub">
+  <img src="https://github-profile-trophy.vercel.app/?username=Beniihime&theme=radical" alt="Трофеи GitHub">
 </p>
 
 ### 📫 Контакты:
