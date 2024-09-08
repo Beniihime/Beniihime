@@ -22,8 +22,9 @@
 
 ### 🔥 Моя активность на GitHub:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beniihime&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beniihime&layout=compact&theme=radical" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Beniihime&theme=2077" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Beniihime&theme=2077" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Beniihime&theme=2077&utcOffset=8" />
 </p>
 
 ### 🏆 Трофеи профиля:
