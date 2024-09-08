@@ -1,8 +1,8 @@
 ## Привет, я Benihime (Олег)! 👋
 
-<div style="max-width: 100%; height: 180em;">
+<p align="center" style="max-width: 100%; height: 180em;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGphbTVscXZrNnNjZGprYWRobjRzYjYwdXY5dmIzeXYzYjV5YWVtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jh7F7XwHTywg85ekdl/giphy.webp"/>
-</div>
+</p>
 
 
 ### 🔧 О себе:
