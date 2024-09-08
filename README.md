@@ -1,6 +1,10 @@
 ## Привет, я Benihime (Олег)! 👋
 
-![Приветствие](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGphbTVscXZrNnNjZGprYWRobjRzYjYwdXY5dmIzeXYzYjV5YWVtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jh7F7XwHTywg85ekdl/giphy.webp)
+![Приветствие](
+<div style="width: 100%;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGphbTVscXZrNnNjZGprYWRobjRzYjYwdXY5dmIzeXYzYjV5YWVtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jh7F7XwHTywg85ekdl/giphy.webp"/>
+</div>
+)
 
 ### 🔧 О себе:
 - 💻 Студент Computer Science and Engineering
