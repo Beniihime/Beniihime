@@ -37,6 +37,11 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/></td>
   </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/></td>
+    <td></td>
+    <td></td>
+  </tr>
 
   <tr>
     <th colspan="3" style="text-align: center; font-size: 1.2em;">Tools and Version Control</th>
